@@ -9,6 +9,6 @@ Establishing a culture of psychological safety can help your team members feel s
 
 ## Getting Started
 
-Get your team started today by checking out the [Toolbox for Working with Psychological Safety]("toolbox.md")
+Get your team started today by checking out the [Toolbox for Working with Psychological Safety](toolbox.md)
 
 ...or read [the paper behind the tools](https://link.springer.com/chapter/10.1007/978-3-031-08169-9_6)
