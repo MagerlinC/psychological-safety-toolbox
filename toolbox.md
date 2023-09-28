@@ -1,22 +1,10 @@
-<style>
-    .header-main {
-        background-color: #e63b53;
-        padding: 8px 0;
-        text-align: center;
-        font-weight: bold;
-    }
-    table {
-        width:100%;
-    }
-</style>
-
 # Tool Compendium: Tools for Working with Psychological Safety in Agile Software Teams
 
 This compendium was made by Mikkel Agerlin Christensen, and is licensed under Creative Commons [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/).
 
 `Version 2, 2023`
 
-<h1 class="header-main">Introduction</h1>
+# Introduction
 
 Welcome to your toolbox of **tools** for working with psychological safety! This document will contain a small introduction, a guide to using the **tools**, and finally a list of all the **tools** available.
 
@@ -49,7 +37,7 @@ The list of **tools** provdied below is intended for use by teams of 3-10 people
 
 For the best outcome, the **tools** selected by your team should be utilized by every person that is considered a member of the team, regardless of position or role within the team.
 
-<h1 class="header-main">Quick Reference</h1>
+# Quick Reference
 
 This compendium consists of 8 **tools**, which all outline various ways in which your team can work with psychological safety.
 
@@ -92,7 +80,7 @@ If you want to further deepen your work with psychological safety, feel free to 
 
 And perhaps most importantly; have fun!
 
-<h1 class="header-main">List of tools</h1>
+# List of tools
 
 | **Tool Name**                                             | **Setting 👥** | **Duration 🕒**     | **Frequency 🔄** | **Required Comfort 🛋️** |
 | --------------------------------------------------------- | -------------- | ------------------- | ---------------- | ----------------------- |
