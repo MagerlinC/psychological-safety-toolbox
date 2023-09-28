@@ -14,8 +14,6 @@
 
 This compendium was made by Mikkel Agerlin Christensen, and is licensed under Creative Commons [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/).
 
-Its author can be contacted at: [mikkel@addresstheelephant.io](mailto:mikkel@addresstheelephant.io)
-
 `Version 2, 2023`
 
 <h1 class="header-main">Introduction</h1>
@@ -101,7 +99,7 @@ And perhaps most importantly; have fun!
 | [Laying the Foundation](tools/laying-the-foundation.md)   | Group          | 20min               | Once             | 1                       |
 | [What's it to me?](tools/whats-it-to-me.md)               | Individual     | 10min               | Iteratively      | 1                       |
 | [Checking In](tools/checking-in.md)                       | Group          | 15min               | Iteratively      | 2                       |
-| [Celebrating Mistakes](tools/celebrating-mistakes.md)     | Individual     | 10min               | Any              | 2                       |
+| [Celebrating Mistakes](tools/celebrating-mistakes.md)     | Individual     | 10min               | As occurs        | 2                       |
 | [Presenting the Journey](tools/presenting-the-journey.md) | Group          | 15min               | Iteratively      | 2                       |
 | [Three Questions](tools/three-questions.md)               | Group          | 5min + 5min/person  | Iteratively      | 1                       |
 | [Acting on Concerns](tools/acting-on-concerns.md)         | Group          | 20min               | Iteratively      | 1                       |
