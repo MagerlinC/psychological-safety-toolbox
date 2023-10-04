@@ -1,8 +1,11 @@
+name: Build and deploy
+on:
+  push:
+    branches:
+      - main
 jobs:
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    name: github-pages
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
