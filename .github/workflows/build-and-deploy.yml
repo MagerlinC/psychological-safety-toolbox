@@ -1,4 +1,7 @@
 name: Build and deploy
+defaults:
+  run:
+    working-directory: ./website
 on:
   push:
     branches:
