@@ -1,8 +1,15 @@
+---
+slug: presenting-the-journey
+title: Presenting the Journey
+authors: mac
+tags: [tool, psychological safety]
+---
+
 # Presenting the Journey
 
 👥 Group Setting | 🕒 15 min | 🔄 Iteratively | 🛋️ Required Comfort: 2
 
-[Example](../tool-examples/presenting-the-journey.md)
+[Example](../examples/presenting-the-journey)
 
 ## Use When
 

@@ -1,8 +1,15 @@
+---
+slug: celebrating-mistakes
+title: Celebrating Mistakes
+authors: mac
+tags: [tool, psychological safety]
+---
+
 # Celebrating Mistakes
 
 👥 Individual Setting | 🕒 10 min | 🔄 As occurs | 🛋️ Required Comfort: 2
 
-[Example](../tool-examples/celebrating-mistakes.md)
+[Example](../examples/celebrating-mistakes)
 
 ## Use When
 

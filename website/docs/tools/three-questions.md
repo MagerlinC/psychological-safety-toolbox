@@ -1,8 +1,15 @@
+---
+slug: three-questions
+title: Three Questions
+authors: mac
+tags: [tool, psychological safety]
+---
+
 # Three Questions
 
 👥 Group Setting | 🕒 5 min + 5min/person | 🔄 Iteratively | 🛋️ Required Comfort: 1
 
-[Example](../tool-examples/three-questions.md)
+[Example](../examples/three-questions)
 
 ## Use When
 

@@ -4,6 +4,21 @@
  * work well for content-centric websites.
  */
 
+html {
+  --background-color: #5d5da3;
+  --primary-color: #e63b53;
+  --accent1: #e9bb66;
+  --accent2: #7a96a2;
+  --box-shadow: 0px 4px 39px rgba(0, 0, 0, 0.3);
+  --text-color: white;
+  --bg-gradient: radial-gradient(
+      ellipse at top right,
+      #dd7caf,
+      var(--background-color)
+    ),
+    radial-gradient(ellipse at bottom left, #dd7caf, var(--background-color));
+}
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2e8555;
@@ -18,7 +33,7 @@
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;

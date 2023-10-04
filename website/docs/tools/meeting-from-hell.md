@@ -1,8 +1,15 @@
+---
+slug: meeting-from-hell
+title: Meeting from Hell
+authors: mac
+tags: [tool, psychological safety]
+---
+
 # Meeting from Hell
 
 👥 Group Setting | 🕒 45 min | 🔄 Once | 🛋️ Required Comfort: 3
 
-[Example](../tool-examples/meeting-from-hell.md)
+[Example](../examples/meeting-from-hell)
 
 ## Use When
 

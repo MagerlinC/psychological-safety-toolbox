@@ -1,8 +1,15 @@
+---
+slug: what-is-it-to-me
+title: What's it to me?
+authors: mac
+tags: [tool, psychological safety]
+---
+
 # What's it to me?
 
 👥 Individual | 🕒 10 min | 🔄 Daily | 🛋️ Required Comfort: 1
 
-[Example](../tool-examples/what-is-it-to-me.md)
+[Example](../examples/what-is-it-to-me)
 
 ## Use When
 

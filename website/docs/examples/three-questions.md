@@ -1,0 +1,12 @@
+# Example: Three Questions
+
+**Clarify, Ideate, Challenge!**
+
+MedTech Corp’s UX team consists of Alice, Bob, Charlie, Dave and Eve. They have agreed to start working with psychological safety, in the hopes that it can help their team grow and develop even better user experiences in the future. They have chosen to adopt the tool “Three Questions”, and have decided to conduct it as a bi-weekly meeting as part of designing and developing the user experience for their new patient platform.
+
+In their meeting, Charlie presents the tool, and starts a roundtable from Alice’s position. Charlie asks Alice to briefly describe what they are working on, and what is challenging them. Alice says: “I am working on designing the user experience for signing in to the new online patient history platform. There are a lot of different ways to sign in, and many of the users are elderly, so it’s a real challenge to keep it simple, while allowing the many different ways of logging in. Specifically, I’m struggling drawing the right Gestalts between page functionality and user understanding”. To the right of Alice, Bob asks a clarifying question; “I’ve heard you talk about working with Gestalts before, could you maybe help explain to the team what they are, and how they help solve your problem?”. Alice answers Bob, and describes her thoughts to the team. Charlie, sitting to the right of Bob, offers an idea: “Do you think it could work to add a step before the log-in process, where users select their login-type, before typing any information in?”. “I’m a little worried about adding more steps, but it might be a better solution, I will look into it”, answers Alice. Finally, Dave, sitting to the right of Charlie, challenges Alice: “I wonder, you posed that Gestalts could be the solution to provide clarity to the users. Have you considered other options?” Alice pauses for a while, before thinking out loud, considering other options. She ends up setting up a meeting with Dave afterwards, to go over some alternatives.
+The round starts over from the top, with Eve starting the next round.
+
+## Note: Use the Team!
+
+While “Three Questions” works in a roundtable format, aiming to include everyone, don’t be afraid to ask for input, or even discuss within the team. This might make it harder to keep to the timeframe, but if it’s constructive discussion, it might be worth it! This is especially relevant if a team member is struggling to come up with a good question for the speaker.

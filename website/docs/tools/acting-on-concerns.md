@@ -9,7 +9,7 @@ tags: [tool, psychological safety]
 
 👥 Group Setting | 🕒 20 min | 🔄 Iteratively | 🛋️ Required Comfort: 1
 
-[Example](../tool-examples/acting-on-concerns.md)
+[Example](../examples/acting-on-concerns.md)
 
 ## Use When
 

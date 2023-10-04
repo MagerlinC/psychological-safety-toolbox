@@ -1,8 +1,15 @@
+---
+slug: the-way-things-are
+title: The Way Things Are
+authors: mac
+tags: [tool, psychological safety]
+---
+
 # The Way Things Are
 
 👥 Group Setting | 🕒 10 min + 3min/person | 🔄 Iteratively | 🛋️ Required Comfort: 1
 
-[Example](../tool-examples/the-way-things-are.md)
+[Example](../examples/the-way-things-are)
 
 ## Use When
 
@@ -16,7 +23,7 @@ A list of the activities your team conducts regularly.
 
 An important part of innovation is that of paying continuous attention to the way things are done in your team, and to not get stuck in doing them a certain way, just because that has become “the way we do things around here”. This stagnation can for example happen when a team feels like they have “solved” a way to conduct a certain activity. “The Way Things Are” aims to get the team to reflect on these activities, and to challenge the status quo.
 
-Select an activity from your list of activities. This can either be done randomly, or by intentional selection, if your team members want to work with a specific activity. Give every team member 5 minutes to individually note down the best and worst thing about how that activity is conducted. After this time, have team members go around the table and share their notes. When the roundtable has concluded, have a free-form discussion of what changes could be applied to the activity, based on what you found from the team’s notes. Look for patterns! “The Way Things Are” can be conducted during an existing reflective meeting, such as a Sprint Retrospective.
+Select an activity from your list of activities. This can either be done randomly, or by intentional selection, if your team members want to work with a specific activity. Give every team member 5 minutes to individually note down the best and worst thing about how that activity is conducted. After this time, have team members go around the table and share their notes. When the roundtable has concluded, have a free-form discussion of what changes could be applied to the activity, based on what you found from the team’s notes. Look for patterns!“The Way Things Are” can be conducted during an existing reflective meeting, such as a Sprint Retrospective.
 
 ## Purpose
 

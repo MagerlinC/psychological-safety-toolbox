@@ -1,3 +1,10 @@
+---
+slug: laying-the-foundation
+title: Laying the Foundation
+authors: mac
+tags: [tool, psychological safety]
+---
+
 # Laying the Foundation
 
 👥 Group Setting | 🕒 20 min | 🔄 Once | 🛋️ Required Comfort: 1

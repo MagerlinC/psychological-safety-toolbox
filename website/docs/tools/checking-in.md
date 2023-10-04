@@ -1,8 +1,15 @@
+---
+slug: checking-in
+title: Checking In
+authors: mac
+tags: [tool, psychological safety]
+---
+
 # Checking In
 
 👥 Group Setting | 🕒 15 min | 🔄 Iteratively | 🛋️ Required Comfort: 2
 
-[Example](../tool-examples/checking-in.md)
+[Example](../examples/checking-in)
 
 ## Use When
 
