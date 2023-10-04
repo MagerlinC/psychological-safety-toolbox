@@ -91,7 +91,7 @@ And perhaps most importantly; have fun!
 | **Tool Name**                                             | **Setting 👥** | **Duration 🕒**     | **Frequency 🔄** | **Required Comfort 🛋️** |
 | --------------------------------------------------------- | -------------- | ------------------- | ---------------- | ----------------------- |
 | [Laying the Foundation](tools/laying-the-foundation.md)   | Group          | 20min               | Once             | 1                       |
-| [What's it to me?](tools/whats-it-to-me.md)               | Individual     | 10min               | Iteratively      | 1                       |
+| [What's it to me?](tools/what-is-it-to-me.md)             | Individual     | 10min               | Iteratively      | 1                       |
 | [Checking In](tools/checking-in.md)                       | Group          | 15min               | Iteratively      | 2                       |
 | [Celebrating Mistakes](tools/celebrating-mistakes.md)     | Individual     | 10min               | As occurs        | 2                       |
 | [Presenting the Journey](tools/presenting-the-journey.md) | Group          | 15min               | Iteratively      | 2                       |
