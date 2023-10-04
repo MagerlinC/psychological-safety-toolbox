@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Address the Elephant",
+  title: "Addressing the Elephant in the room",
   tagline: "Tools for working with Psychological Safety",
   favicon: "img/favicon.ico",
 
@@ -91,25 +91,21 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
+                label: "Tool Compendium",
                 to: "/docs/intro",
               },
             ],
           },
           {
-            title: "Community",
+            title: "Contact Me",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "LinkedIn",
+                href: "https://www.linkedin.com/in/mikkel-agerlin-christensen-3a38ba166/",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                label: "Email",
+                href: "mailto:mikkel@addresstheelephant.io",
               },
             ],
           },

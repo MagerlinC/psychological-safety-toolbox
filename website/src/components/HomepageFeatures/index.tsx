@@ -1,49 +1,45 @@
-import React from 'react';
-import clsx from 'clsx';
-import styles from './styles.module.css';
+import React from "react";
+import clsx from "clsx";
+import styles from "./styles.module.css";
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  Svg: React.ComponentType<React.ComponentProps<"svg">>;
   description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: "Psychological Safety makes Teams efficient",
+    Svg: require("@site/static/img/efficiency.svg").default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Psychological Safety has been identified as the most important factor of
+        Software Team Efficiency by Google in a{" "}
+        <a href="https://rework.withgoogle.com/">2016 study</a>. But while
+        Psychological Safety is clearly important, it can be very hard to
+        achieve.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: "Get everyone's brains and voices in the game",
+    Svg: require("@site/static/img/elephant-screen.svg").default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Establishing a culture of psychological safety can help your team
+        members feel safe to address the elephant in the room, and get
+        everyone’s brains and voices in the game. We’ve designed actionable
+        tools for working with psychological safety based on research and
+        testing with industry software teams.
       </>
     ),
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({ title, Svg, description }: FeatureItem) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx("col")}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
