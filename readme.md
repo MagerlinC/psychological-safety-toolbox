@@ -12,9 +12,9 @@ I have designed actionable tools for working with psychological safety based on 
 
 ## Getting Started
 
-Get your team started today by checking out the [Toolbox for Working with Psychological Safety](website/docs/intro.md)
+Get your team started today by checking out the [Toolbox for Working with Psychological Safety](https://magerlinc.github.io/psychological-safety-toolbox)
 
-...or read [the paper behind the tools](https://link.springer.com/chapter/10.1007/978-3-031-08169-9_6)
+... or read the Markdown files [right here in this Repo](website/docs/intro.md)
 
 ## Contributing to this Repository
 
