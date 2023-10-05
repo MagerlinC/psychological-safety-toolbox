@@ -6,7 +6,9 @@ sidebar_position: 1
 
 Welcome to the Tool Compendium, containing Tools for Working with Psychological Safety in Agile Software Teams.
 
-This compendium was made by Mikkel Agerlin Christensen, and is licensed under Creative Commons [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/).
+This compendium was made by Mikkel Agerlin Christensen, and is licensed for non-commercial use under Creative Commons [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/).
+
+If you wish to use this compendium for commercial purposes, please contact me at [mikkel@addresstheelephant.io].
 
 `Version 2, 2023`
 
