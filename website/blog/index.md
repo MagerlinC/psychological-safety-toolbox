@@ -1,3 +1,3 @@
-# Index test
+# This is a blog post
 
-test
+... Something might appear here one day :)
