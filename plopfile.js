@@ -12,12 +12,12 @@ module.exports = function (plop) {
     actions: [
       {
         type: "add",
-        path: "tools/{{kebabCase name}}.md",
+        path: "website/docs/tools/{{kebabCase name}}.md",
         templateFile: "plop-templates/tool.hbs",
       },
       {
         type: "add",
-        path: "tool-examples/{{kebabCase name}}.md",
+        path: "website/docs/examples/{{kebabCase name}}.md",
         templateFile: "plop-templates/example.hbs",
       },
     ],
