@@ -15,6 +15,7 @@ html {
       var(--background-color)
     ),
     radial-gradient(ellipse at bottom left, #dd7caf, var(--background-color));
+  --spacing-medium: 16px;
 }
 
 /* You can override the default Infima variables here. */
@@ -40,4 +41,67 @@ html {
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+p {
+  margin: 0;
+}
+
+.hero-image {
+  width: 300px;
+  height: 350px;
+}
+.hero-desc {
+  display: flex;
+  flex-direction: column;
+  justify-content: top;
+  gap: var(--spacing-medium);
+  padding: 0 var(--spacing-medium);
+}
+.page-header {
+  padding: var(--spacing-medium);
+  width: 100%;
+  background: var(--bg-gradient);
+  text-align: center;
+}
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.row-to-col {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  max-width: 100%;
+  padding: var(--spacing-medium);
+  gap: var(--spacing-medium);
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 100%;
+  overflow: hidden;
+  gap: var(--spacing-medium);
+  padding: var(--spacing-medium);
+}
+figure {
+  margin: 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+iframe {
+  flex: 1;
+  min-height: 400px;
+}
+@media screen and (max-width: 996px) {
+  .row-to-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .grid {
+    grid-template-columns: 1fr;
+  }
 }

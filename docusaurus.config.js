@@ -78,6 +78,7 @@ const config = {
             label: "Tool Compendium",
           },
           { to: "/blog", label: "Blog", position: "left" },
+          { to: "/about-me", label: "About Me", position: "left" },
           {
             href: "https://github.com/MagerlinC/psychological-safety-toolbox/tree/main",
             label: "GitHub",
