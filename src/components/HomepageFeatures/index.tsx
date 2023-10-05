@@ -1,17 +1,20 @@
 import React from "react";
 import clsx from "clsx";
 import styles from "./styles.module.css";
+import ResearchImg from "../../../static/img/edmond-team.png";
+import EfficiencyImg from "../../../static/img/edmond-efficiency.png";
+import ScreenImg from "../../../static/img/edmond-screen.png";
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<"svg">>;
+  imgSrc: string;
   description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
   {
     title: "Psychological Safety makes Teams efficient",
-    Svg: require("@site/static/img/efficiency.svg").default,
+    imgSrc: EfficiencyImg,
     description: (
       <>
         Psychological Safety has been identified as the most important factor of
@@ -24,24 +27,38 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "Get everyone's brains and voices in the game",
-    Svg: require("@site/static/img/elephant-screen.svg").default,
+    imgSrc: ScreenImg,
     description: (
       <>
         Establishing a culture of psychological safety can help your team
         members feel safe to address the elephant in the room, and get
-        everyone’s brains and voices in the game. We’ve designed actionable
-        tools for working with psychological safety based on research and
-        testing with industry software teams.
+        everyone’s brains and voices in the game. I have designed and tested
+        actionable tools for working with psychological safety based on research
+        and testing with industry software teams.
+      </>
+    ),
+  },
+  {
+    title: "Research-based, tested with industry Teams",
+    imgSrc: ResearchImg,
+    description: (
+      <>
+        The Tools designed and shared on this page originate from academic
+        resarch combined with testing with industry software teams.{" "}
+        <a href="https://link.springer.com/chapter/10.1007/978-3-031-08169-9_6">
+          Read the paper that started it all here
+        </a>
+        .
       </>
     ),
   },
 ];
 
-function Feature({ title, Svg, description }: FeatureItem) {
+function Feature({ title, description, imgSrc }: FeatureItem) {
   return (
     <div className={clsx("col")}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img className={styles.featurePng} src={imgSrc} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
