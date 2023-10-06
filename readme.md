@@ -12,7 +12,7 @@ I have designed actionable tools for working with psychological safety based on 
 
 ## Getting Started
 
-Get your team started today by checking out the [Toolbox for Working with Psychological Safety](https://magerlinc.github.io/psychological-safety-toolbox).
+Get your team started today by checking out the [Toolbox for Working with Psychological Safety](https://addresstheelephant.io/).
 
 ... or read the Markdown files [right here in this repo](website/docs/intro.md).
 
