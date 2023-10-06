@@ -11,6 +11,6 @@
 }
 .featurePng {
   margin-top: var(--spacing-medium);
-  width: 200px;
-  height: auto;
+  width: auto;
+  height: 125px;
 }

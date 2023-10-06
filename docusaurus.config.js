@@ -10,7 +10,8 @@ const projectName = "psychological-safety-toolbox";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Addressing the Elephant in the room",
-  tagline: "Tools for working with Psychological Safety",
+  tagline:
+    "It’s human instinct to “fit in” and “go along”, but this instinct can work against us when we want to innovate. Address the elephant in the room with your teams today!",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here

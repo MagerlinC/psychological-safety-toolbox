@@ -32,9 +32,7 @@ const FeatureList: FeatureItem[] = [
       <>
         Establishing a culture of psychological safety can help your team
         members feel safe to address the elephant in the room, and get
-        everyone’s brains and voices in the game. I have designed and tested
-        actionable tools for working with psychological safety based on research
-        and testing with industry software teams.
+        everyone’s brains and voices in the game.
       </>
     ),
   },
@@ -43,10 +41,11 @@ const FeatureList: FeatureItem[] = [
     imgSrc: ResearchImg,
     description: (
       <>
-        The Tools designed and shared on this page originate from academic
-        resarch combined with testing with industry software teams.{" "}
+        I have designed and tested actionable tools for working with
+        psychological safety based on research and testing with industry
+        software teams.{" "}
         <a href="https://link.springer.com/chapter/10.1007/978-3-031-08169-9_6">
-          Read the paper that started it all here
+          Read the research paper that started it all here
         </a>
         .
       </>
