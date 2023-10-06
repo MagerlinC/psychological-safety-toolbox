@@ -10,7 +10,7 @@
   overflow: hidden;
 }
 .subtitle {
-  margin-bottom: var(--spacing-medium);
+  margin-bottom: 12px;
 }
 
 @media screen and (max-width: 996px) {

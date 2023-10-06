@@ -3,6 +3,7 @@ import Layout from "@theme/Layout";
 import MikkelImg from "../../static/img/mikkel.png";
 import Presentation1 from "../../static/img/xppresentation.jpeg";
 import Presentation2 from "../../static/img/awardspresentation.jpg";
+import styles from "./about-me.module.css";
 
 export default function AboutMe() {
   return (
@@ -10,8 +11,9 @@ export default function AboutMe() {
       <div className={"center"}>
         <h1 className={"page-header"}>Hey there, I'm Mikkel 👋</h1>
         <div className={"row-to-col"}>
-          <img className={"hero-image"} src={MikkelImg} />
-          <p className={"hero-desc"}>
+          <img className={styles.heroImage} src={MikkelImg} />
+          <p className={styles.heroDesc}>
+            <h2 className={styles.nameTitle}>Mikkel Agerlin Christensen</h2>
             <p>
               I'm a Software Developer by day, and a Psychological Safety
               practitioner and researcher by... well, also day I suppose. I come

@@ -47,17 +47,6 @@ p {
   margin: 0;
 }
 
-.hero-image {
-  width: 300px;
-  height: 350px;
-}
-.hero-desc {
-  display: flex;
-  flex-direction: column;
-  justify-content: top;
-  gap: var(--spacing-medium);
-  padding: 0 var(--spacing-medium);
-}
 .page-header {
   padding: var(--spacing-medium);
   width: 100%;
@@ -81,6 +70,7 @@ p {
   display: grid;
   grid-template-columns: 1fr 1fr;
   max-width: 100%;
+  width: 100%;
   overflow: hidden;
   gap: var(--spacing-medium);
   padding: var(--spacing-medium);

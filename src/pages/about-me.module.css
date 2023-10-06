@@ -1,0 +1,23 @@
+.nameTitle {
+  margin: 0;
+}
+
+.heroDesc {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 0.8;
+  gap: var(--spacing-medium);
+  padding: 0 var(--spacing-medium);
+}
+
+.heroImage {
+  height: 350px;
+  width: 300px;
+  margin-top: 8px;
+}
+@media screen and (max-width: 996px) {
+  .heroImage {
+    margin-top: 0;
+  }
+}
