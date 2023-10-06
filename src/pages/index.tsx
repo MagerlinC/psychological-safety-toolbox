@@ -16,6 +16,9 @@ function HomepageHeader() {
         <p className={`hero__subtitle ${styles.subtitle}`}>
           {siteConfig.tagline}
         </p>
+        <p className={`hero__subtitle ${styles.subtitle}`}>
+          Get your team's journey towards psychological safety started today.
+        </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"

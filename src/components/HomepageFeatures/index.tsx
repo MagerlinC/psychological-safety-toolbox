@@ -13,7 +13,19 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Psychological Safety makes Teams efficient",
+    title: "Get everyone's brains and voices in the game",
+    imgSrc: ScreenImg,
+    description: (
+      <>
+        Establishing a culture of psychological safety can help your team
+        members feel safe to address the elephant in the room. Getting
+        everyone’s brains and voices in the game gives your teams the highest
+        potential for creating value.
+      </>
+    ),
+  },
+  {
+    title: "Psychological Safety makes teams efficient",
     imgSrc: EfficiencyImg,
     description: (
       <>
@@ -21,29 +33,18 @@ const FeatureList: FeatureItem[] = [
         Software Team Efficiency by Google in a{" "}
         <a href="https://rework.withgoogle.com/">2016 study</a>. But while
         Psychological Safety is clearly important, it can be very hard to
-        achieve.
+        achieve without actionable tools to make it happen.
       </>
     ),
   },
   {
-    title: "Get everyone's brains and voices in the game",
-    imgSrc: ScreenImg,
-    description: (
-      <>
-        Establishing a culture of psychological safety can help your team
-        members feel safe to address the elephant in the room, and get
-        everyone’s brains and voices in the game.
-      </>
-    ),
-  },
-  {
-    title: "Research-based, tested with industry Teams",
+    title: "Research-based tools tested with industry teams",
     imgSrc: ResearchImg,
     description: (
       <>
-        I have designed and tested actionable tools for working with
-        psychological safety based on research and testing with industry
-        software teams.{" "}
+        This Tool Compendium presents actionable tools for working with
+        psychological safety based on academic research and testing with
+        industry software teams.{" "}
         <a href="https://link.springer.com/chapter/10.1007/978-3-031-08169-9_6">
           Read the research paper that started it all here
         </a>
