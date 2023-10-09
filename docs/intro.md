@@ -20,8 +20,11 @@ With that said, let's get started!
 
 ## What is Psychological Safety?
 
-Psychological safety is cultural phenomenon which exists in all human interaction. Psychological safety is a belief that one will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes within a group. A team with high psychological safety is one wherein the team members feel safe to experiment and learn, to make mistakes, and to speak openly and address the hard questions.
-The term was first coined by Amy Edmondson, a Professor of Leadership and Management at Harvard. Her introduction to the subject can be explored by using the very first tool, ”Laying the Foundation”.
+Psychological safety describes an aspect of group culture, which exists in all human interaction, whether you're giving a presentation, working in a team meeting, or calling your mom on the phone.
+
+Psychological safety is defined as a belief that one will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes within a group. A group with high psychological safety is one wherein the group members feel safe to experiment and learn, to make mistakes, and to speak openly and address the hard questions.
+
+The term has a history dating back to the 50s, but was popularized in the 2000s by Amy Edmondson, a Professor of Leadership and Management at Harvard. Her introduction to the subject can be explored by using the very first tool, ”Laying the Foundation”. She also wrote [a fantastic book](https://books.google.com/books?hl=da&lr=&id=aZZxDwAAQBAJ&oi=fnd&pg=PR13&dq=The+Fearless+organization&ots=AkbMa88flI&sig=a3SABHWbJTLarQEYQAg5Ok2ioyA&redir_esc=y#v=onepage&q=The%20Fearless%20organization&f=false) on the subject.
 
 ## Why Psychological Safety?
 
