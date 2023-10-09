@@ -22,24 +22,35 @@ With that said, let's get started!
 
 Psychological safety describes an aspect of group culture, which exists in all human interaction, whether you're giving a presentation, working in a team meeting, or calling your mom on the phone.
 
-Psychological safety is defined as a belief that one will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes within a group. A group with high psychological safety is one wherein the group members feel safe to experiment and learn, to make mistakes, and to speak openly and address the hard questions.
+The term has a history dating back to the 50s, but was popularized in the 2000s by Amy Edmondson, a Professor of Leadership and Management at Harvard. Her introduction to the subject can be explored by using the very first tool, [Laying the Foundation](tools/laying-the-foundation.md). She also wrote [a fantastic book](https://books.google.com/books?hl=da&lr=&id=aZZxDwAAQBAJ&oi=fnd&pg=PR13&dq=The+Fearless+organization&ots=AkbMa88flI&sig=a3SABHWbJTLarQEYQAg5Ok2ioyA&redir_esc=y#v=onepage&q=The%20Fearless%20organization&f=false) on the subject.
 
-The term has a history dating back to the 50s, but was popularized in the 2000s by Amy Edmondson, a Professor of Leadership and Management at Harvard. Her introduction to the subject can be explored by using the very first tool, ”Laying the Foundation”. She also wrote [a fantastic book](https://books.google.com/books?hl=da&lr=&id=aZZxDwAAQBAJ&oi=fnd&pg=PR13&dq=The+Fearless+organization&ots=AkbMa88flI&sig=a3SABHWbJTLarQEYQAg5Ok2ioyA&redir_esc=y#v=onepage&q=The%20Fearless%20organization&f=false) on the subject.
+Psychological safety can be defined as:
+
+> A belief that one will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes within a group.
+
+A group with high psychological safety is one wherein the group members feel safe to experiment and learn, to make mistakes, and to speak openly and address the hard questions.
+
+The word _belief_ is important - most people don't even get to the "punished" or "humiliated" part. Instead, we hold back and avoid it. This works remarkably well. After all, it's pretty safe to stay silent most of the time. But this might not be the best way to get the most out of your team.
+
+The most common reason people hold back is _impression management_; the little voice we all have running in our heads which tells us not to say something that might make us look negative, incompetent, intrusive or ignorant.
+
+Psychological safety can help your team reduce time and energy spent on impression management, so you can spend it on moving forward instead.
 
 ## Why Psychological Safety?
 
-Psychological safety has been proven to be one the main predictors of team efficiency in innovative and complex environments. Psychological safety is an enabler of candor, and helps your team speak openly, experiment, and learn from mistakes. However, psychological safety is not about feeling comfortable and never challenging each other.
-While the immediate goal of working with psychological safety might consist of learning to open up and ask the difficult questions, the end goal of psychological safety should be excellence, not comfort.
+Psychological safety has been proven to be one the main predictors of team efficiency in innovative and complex environments. In fact, Google's project Aristotle found it to be the most important of their [5 key factors of effective teams](https://rework.withgoogle.com/print/guides/5721312655835136/) in a study of over 100 international software teams.
 
-Good psychological safety gets everyone's brains and voices in the game, giving you your highest potential for valuable outcomes of your team's work.
+Psychological safety is an enabler of candor, and helps your team speak openly, experiment, and learn from mistakes, without holding themselves back. However, feeling comfortable and never challenging each other is not the goal. In fact, good psychological safety should enable your team to ask the hard questions and to have the tough but necessary conversations.
+
+The end goal of psychological safety should be excellence, not comfort. This can be achieved because good psychological safety gets everyone's brains and voices in the game, giving your team the highest potential for valuable outcomes.
 
 ## What is a "Tool"?
 
-In the following pages, a list of **tools** for working with psychological safety will be presented. Your team can pick up these **tools** and use them for working with psychological safety. A tool describes an activity which your team can integrate into your practice, the motivation for performing it, as well as the duration and frequency with which the activity should be performed.
+Below you can find a list of **tools** for working with psychological safety. Your team can pick up these **tools** and use them for working with psychological safety as part of their daily work.
 
-Some **tools** are designed to be used daily, while others can be used once per iteration, such as a Sprint or a work week, or ad-hoc throughout the iteration.
+A **tool** describes an activity which your team can integrate into your practice, the motivation for performing it, as well as the duration and frequency with which the activity should be performed. Some **tools** are designed to be used daily, while others can be used once per iteration, such as a Sprint or a work week, or ad-hoc throughout the iteration.
 
-Finally, each tool lists the intended outcome of using the tool, and provides a few examples. Note that each tool comes with a hexagonal indicator, indicating the required level of comfort with dissent in your team, on a scale from 1-3, to get the most out of the tool. Some of the **tools** will challenge your team, and address the “hard” questions. It’s important to consider whether or not a “harder” tool will be constructive for your team, based on their existing comfort with dissent. Comfort with dissent is hard to measure, so it is up to your team to assess which **tools** they think are appropriate.
+Finally, each **tool** lists the intended outcome of using the **tool**, and provides a few examples. Note that each **tool** comes with a numerical indicator, indicating the required level of comfort with dissent in your team, on a scale from 1-3, to get the most out of the **tool**. Some of the **tools** will challenge your team, and address the “hard” questions. It’s important to consider whether or not a “harder” **tool** will be constructive for your team, based on their existing comfort with dissent. Comfort with dissent is hard to measure, so it is up to your team to assess which **tools** they think are appropriate.
 
 ## Why use Tools for Psychological Safety?
 
