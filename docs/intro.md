@@ -50,7 +50,7 @@ For the best outcome, the **tools** selected by your team should be utilized by 
 
 # Quick Reference
 
-This compendium consists of 8 **tools**, which all outline various ways in which your team can work with psychological safety.
+This compendium consists of 9 **tools**, which all outline various ways in which your team can work with psychological safety.
 
 Although any tool can be used by any team, the **tools** differ slightly in design, and some will be a better match for your team than others.
 
@@ -79,13 +79,13 @@ Use this information to pick a set of **tools** for your team to try, which work
 
 ## Quick Start
 
-The full list of **tools** will follow on the next page. To get started, pick 2-3 **tools** and try them out in your team.
+The full list of **tools** will follow below. To get started, pick 2-3 **tools** and try them out in your team. Feel free to pick the ones that speak to you - a **tool** is most succesful if it's used by a team that is excited to try it out.
 
-However, if you are new to working with psychological safety, and want a quick start, the following **tools** are recommended to get you started:
+If you are new to working with psychological safety, and want a quick start, the following **tools** are a good (and safe) starting point:
 
 1. [Laying the Foundation](tools/laying-the-foundation.md)
 2. [Checking In](tools/checking-in.md)
-3. [Acting on Concerns](tools/checking-in.md)
+3. [What's it to me?](tools/what-is-it-to-me.md)
 
 If you want to further deepen your work with psychological safety, feel free to dive into the other **tools**. There is no minimum or maximum amount of **tools** that your team can use at a given time, so feel free to pick the setup that fits your team the best!
 
