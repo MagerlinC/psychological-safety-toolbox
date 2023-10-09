@@ -50,11 +50,17 @@ Below you can find a list of **tools** for working with psychological safety. Yo
 
 A **tool** describes an activity which your team can integrate into your practice, the motivation for performing it, as well as the duration and frequency with which the activity should be performed. Some **tools** are designed to be used daily, while others can be used once per iteration, such as a Sprint or a work week, or ad-hoc throughout the iteration.
 
-Finally, each **tool** lists the intended outcome of using the **tool**, and provides a few examples. Note that each **tool** comes with a numerical indicator, indicating the required level of comfort with dissent in your team, on a scale from 1-3, to get the most out of the **tool**. Some of the **tools** will challenge your team, and address the “hard” questions. It’s important to consider whether or not a “harder” **tool** will be constructive for your team, based on their existing comfort with dissent. Comfort with dissent is hard to measure, so it is up to your team to assess which **tools** they think are appropriate.
+Finally, each **tool** lists the intended outcome of using the **tool**, and provides an example of the **tool** in use.
+
+Note that each **tool** comes with a numerical indicator (1 to 3) of "required comfort with dissent". This indicates the level of comfort with dissent your team should have to get the most out of the **tool**. Comfort with dissent is hard to measure, but you can use the indicators to get a sense of which **tools** might be a good fit for your team.
 
 ## Why use Tools for Psychological Safety?
 
-Psychological safety is nothing new. In fact, most people experience it every day of their work life, perhaps unknowingly. However, very few teams actively discuss it - it's often an invisible phenomenon. This is where **tools** come in. By having your team agree to use a **tool**, you acknowledge the need for discussing this invisble but ever-present phenomenon in an _actionable_ way, and provide your team with a prompt to engage with that discussion.
+Psychological safety is nothing new. In fact, most people experience it every day of their work life, perhaps unknowingly.
+
+However, very few teams actively discuss it - it's often an invisible phenomenon. This is where **tools** come in. By having your team agree to use a **tool**, you acknowledge the need for discussing this invisble but ever-present phenomenon in an _actionable_ way, and provide your team with a prompt to engage with that discussion.
+
+Most teams that have tried this toolbox have stated that they were "pretty good" before using it, and that they already had a good culture of psychological safety. After using these **tools**, [81%](https://link.springer.com/chapter/10.1007/978-3-031-08169-9_6/tables/5) of team members stated that they had reflected on things which their team did normally discuss during **tool** usage.
 
 ## Who are the Tools for?
 
