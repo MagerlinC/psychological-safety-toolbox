@@ -22,7 +22,7 @@ With that said, let's get started!
 
 Psychological safety describes an aspect of group culture, which exists in all human interaction, whether you're giving a presentation, working in a team meeting, or calling your mom on the phone.
 
-The term has a history dating back to the 50s, but was popularized in the 2000s by Amy Edmondson, a Professor of Leadership and Management at Harvard. Her introduction to the subject can be explored by using the very first tool, [Laying the Foundation](tools/laying-the-foundation.md). She also wrote [a fantastic book](https://books.google.com/books?hl=da&lr=&id=aZZxDwAAQBAJ&oi=fnd&pg=PR13&dq=The+Fearless+organization&ots=AkbMa88flI&sig=a3SABHWbJTLarQEYQAg5Ok2ioyA&redir_esc=y#v=onepage&q=The%20Fearless%20organization&f=false) on the subject.
+The term has a history dating back to the 50s, but was popularized in the 2000s by Amy Edmondson, a Professor of Leadership and Management at Harvard. Her introduction to the subject can be explored by using the very first tool, [Laying the Foundation](tools/laying-the-foundation). She also wrote [a fantastic book](https://books.google.com/books?hl=da&lr=&id=aZZxDwAAQBAJ&oi=fnd&pg=PR13&dq=The+Fearless+organization&ots=AkbMa88flI&sig=a3SABHWbJTLarQEYQAg5Ok2ioyA&redir_esc=y#v=onepage&q=The%20Fearless%20organization&f=false) on the subject.
 
 Psychological safety can be defined as:
 
@@ -103,9 +103,9 @@ The full list of **tools** will follow below. To get started, pick 2-3 **tools**
 
 If you are new to working with psychological safety, and want a quick start, the following **tools** are a good (and safe) starting point:
 
-1. [Laying the Foundation](tools/laying-the-foundation.md)
-2. [Checking In](tools/checking-in.md)
-3. [What's it to me?](tools/what-is-it-to-me.md)
+1. [Laying the Foundation](tools/laying-the-foundation)
+2. [Checking In](tools/checking-in)
+3. [What's it to me?](tools/what-is-it-to-me)
 
 If you want to further deepen your work with psychological safety, feel free to dive into the other **tools**. There is no minimum or maximum amount of **tools** that your team can use at a given time, so feel free to pick the setup that fits your team the best!
 
@@ -115,14 +115,14 @@ And perhaps most importantly; have fun!
 
 This compendium contains the following **tools**:
 
-| **Tool Name**                                             | **Setting 👥** | **Duration 🕒**     | **Frequency 🔄** | **Required Comfort 🛋️** |
-| --------------------------------------------------------- | -------------- | ------------------- | ---------------- | ----------------------- |
-| [Laying the Foundation](tools/laying-the-foundation.md)   | Group          | 20min               | Once             | 1                       |
-| [What's it to me?](tools/what-is-it-to-me.md)             | Individual     | 10min               | Iteratively      | 1                       |
-| [Checking In](tools/checking-in.md)                       | Group          | 15min               | Iteratively      | 2                       |
-| [Celebrating Mistakes](tools/celebrating-mistakes.md)     | Individual     | 10min               | As occurs        | 2                       |
-| [Presenting the Journey](tools/presenting-the-journey.md) | Group          | 15min               | Iteratively      | 2                       |
-| [Three Questions](tools/three-questions.md)               | Group          | 5min + 5min/person  | Iteratively      | 1                       |
-| [Acting on Concerns](tools/acting-on-concerns.md)         | Group          | 20min               | Iteratively      | 1                       |
-| [The Way Things Are](tools/the-way-things-are.md)         | Group          | 10min + 3min/person | Iteratively      | 1                       |
-| [Meeting from Hell](tools/meeting-from-hell.md)           | Group          | 45min               | Once             | 3                       |
+| **Tool Name**                                          | **Setting 👥** | **Duration 🕒**     | **Frequency 🔄** | **Required Comfort 🛋️** |
+| ------------------------------------------------------ | -------------- | ------------------- | ---------------- | ----------------------- |
+| [Laying the Foundation](tools/laying-the-foundation)   | Group          | 20min               | Once             | 1                       |
+| [What's it to me?](tools/what-is-it-to-me)             | Individual     | 10min               | Iteratively      | 1                       |
+| [Checking In](tools/checking-in)                       | Group          | 15min               | Iteratively      | 2                       |
+| [Celebrating Mistakes](tools/celebrating-mistakes)     | Individual     | 10min               | As occurs        | 2                       |
+| [Presenting the Journey](tools/presenting-the-journey) | Group          | 15min               | Iteratively      | 2                       |
+| [Three Questions](tools/three-questions)               | Group          | 5min + 5min/person  | Iteratively      | 1                       |
+| [Acting on Concerns](tools/acting-on-concerns)         | Group          | 20min               | Iteratively      | 1                       |
+| [The Way Things Are](tools/the-way-things-are)         | Group          | 10min + 3min/person | Iteratively      | 1                       |
+| [Meeting from Hell](tools/meeting-from-hell)           | Group          | 45min               | Once             | 3                       |
