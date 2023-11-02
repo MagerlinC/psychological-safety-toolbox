@@ -18,26 +18,33 @@ export default function AboutMe() {
               I'm a Software Developer by day, and a Psychological Safety
               practitioner and researcher by... well, also day I suppose. I come
               from a background working as a software developer, but realized
-              early on in my career that people and interactions are what make
-              tech great. As a result of this, I have spent the last couple of
-              years researching and practicing psychological safety across many
-              different software teams - both in my own teams, and other teams
-              interested in working with psychological safety.
+              early on in my career that people and their interactions often end
+              up shaping the software and products we build (Conway's Law,
+              anyone?).
             </p>
             <p>
-              The result of this has been several papers, a research award, and
-              several amazing experiences working with psychological safety in
-              different software teams. I focus on making psychological safety{" "}
-              <i>actionable</i>, designing and implementing tools for working
-              with psychological safety, which your and your team can adopt to
-              start working with psychological safety today! I also attend
-              various events and conferences, speaking and learning about
-              psychological safety. If you want me to speak at your event, at
-              your company, or work with your teams, don't hesitate to contact
-              me at{" "}
-              <a href="mailto:mikkel@addresstheelephant.io">
-                mikkel@addresstheelephant.io
-              </a>
+              As a result of this, I have spent the last couple of years working
+              with researchers, practitioners and software teams alike, trying
+              to find ways to enable software teams to work with psychological
+              safety.
+            </p>
+            <p>
+              The result of this has been a research award, various conference
+              talks and several amazing experiences working with psychological
+              safety in different software teams. I focus on making
+              psychological safety <i>actionable</i>, designing and implementing
+              tools for working with psychological safety, which your and your
+              team can adopt to start working with psychological safety today! I
+              also hold various talks and workshops, sharing the good word with
+              those interested in psychological safety.
+              <p>
+                If you want me to speak at your event, facilitate a workshop
+                with your company, or work directly with your teams, don't
+                hesitate to contact me at{" "}
+                <a href="mailto:mikkel@addresstheelephant.io">
+                  mikkel@addresstheelephant.io
+                </a>
+              </p>
             </p>
             <p>
               If you're interested in my research projects or my CV, you can
