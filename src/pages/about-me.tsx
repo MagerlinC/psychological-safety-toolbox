@@ -54,20 +54,16 @@ export default function AboutMe() {
         <h1>Gallery</h1>
         <div className={"grid"}>
           <figure>
+            <iframe src="https://www.youtube.com/embed/EaQ13glksZg" />
+            <figcaption>
+              Speaking at the Devops Conference in Stockholm in 2023
+            </figcaption>
+          </figure>
+          <figure>
             <iframe src="https://www.youtube.com/embed/pnmxnJJVhns" />
             <figcaption className={"recording-description"}>
               Speaking at an open research event at the IT University of
               Copenhagen in 2021
-            </figcaption>
-          </figure>
-          <figure>
-            <iframe src="https://www.youtube.com/embed/DkO5cRQCEdI" />
-            <figcaption>
-              Speaking online at an{" "}
-              <a href="https://www.meetup.com/agilitylab/events/276894116/">
-                AgilityLab Meetup
-              </a>{" "}
-              about Psychological Safety in 2021
             </figcaption>
           </figure>
           <figure>
