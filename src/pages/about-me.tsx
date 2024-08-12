@@ -67,6 +67,13 @@ export default function AboutMe() {
             </figcaption>
           </figure>
           <figure>
+            <iframe src="https://www.youtube.com/embed/cza3_bQ1Ht4" />
+            <figcaption className={"recording-description"}>
+              Learning from the world's best dragon slayers: a conversation
+              about psychological safety
+            </figcaption>
+          </figure>
+          <figure>
             <iframe src="https://www.youtube.com/embed/pnmxnJJVhns" />
             <figcaption className={"recording-description"}>
               Speaking at an open research event at the IT University of
