@@ -24,11 +24,17 @@ There exist no engineers who can’t obtain the technical ability to change the 
 
 These days, it’s easier than ever to bridge this gap. Amazing code-sharing solutions like tRPC or generated types can be great enablers of reducing the divide between layers of architecture. You can utilize these tools to pull a so-called inverse Conway maneuver; designing your organization around the technology.
 
-Of course there are exceptions to this take; if you’re building an API that gets consumed by many different external clients, it might make sense to hire and label a team explicitly for that. And hey, you know your context best, so do what works for you.
+Of course there are exceptions to the above; if you’re building an API that gets consumed by many different external clients, and you've designed your team around the [x-as-a-service model](https://teamtopologies.com/key-concepts), you're probaly good to go. In fact, so long as you're actively evaluating whether a given structure works for your organization, you are probably going to be fine in the long run.
 
-But I have seen many companies that build one product, consisting of one API, which is consumed by one client, who still divide their architecture, people and culture this way.
-Not because it works, but because it’s the way we’re used to.
+But I have seen many organizations that build one product, consisting of one API, which is consumed by one client, who still divide their architecture, people and culture this way.
+Not because of an active decision, but because it’s the way we’re used to.
 
 The result is inefficient - and if you ask me - uninspiring to partake in.
+
+On the other hand, I've now worked in three separate organizations where we've actively tried to break down these barriers, and the results have been amazing. It takes hard work, and it's paramount that your engineers get the support they need to bridge the gap, and that you do it _with_ them, not _to_ them. But if you succeed, you will see so many benefits for both the engineering department and the organization at large in places you weren't even expecting.
+
+And more importantly - to me as an engineer anyway - it's way more fun. Or as one of my fellow engineers put it during the tail-end of one such transition:
+
+"I've spent the last few months working on things I didn't feel good enough at to do. And... I don't know, it just keeps on working."
 
 !["Product Developers diagram"](/img/frontend-backend-teams.png "Product Developers diagram")
