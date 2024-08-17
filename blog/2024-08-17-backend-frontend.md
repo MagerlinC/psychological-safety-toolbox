@@ -31,4 +31,4 @@ Not because it works, but because it’s the way we’re used to.
 
 The result is inefficient - and if you ask me - uninspiring to partake in.
 
-!["Product Developers diagram"](/static/img/frontend-backend-teams.png "Product Developers diagram")
+!["Product Developers diagram"](/img/frontend-backend-teams.png "Product Developers diagram")
