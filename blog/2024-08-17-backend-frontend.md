@@ -16,7 +16,7 @@ At the end of the day, we’re all working towards the same goal and the ownersh
 
 - How many backend engineers should we hire per frontend engineer?
 - (During Sprint planning): is there enough frontend/backend work in this sprint to match our capacities? (Note the plural here)
-- Who can fix \<insert extremely minor frontend issue> now that \<frontend dev> is on vacation?
+- Who can fix [extremely minor frontend issue] now that [frontend dev] is on vacation?
 
 I am not arguing that everyone should be masters of everything. Rather, I think it’s important to assess whether those are self-made problems stemming from our organizations telling someone that they’re supposed to be a backend or frontend (only) engineer.
 
