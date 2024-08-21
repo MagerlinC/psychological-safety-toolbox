@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Welcome to your toolbox of tools for working with psychological safety!
 
-This tool compendium was designed to help teams begin their journey of working with psychological safety, and contains tools to help them do so. Like most tools, this compendium will not magically grant psychological safety to your team - awareness and desire to change are the keys to any good change process. However, it might help you start a valuable conversation in your team.
+This tool compendium was designed to help teams begin their journey of working with psychological safety, and contains tools to help them do so. Like most tools, this compendium will not magically grant psychological safety to your team. However, it might help you start a valuable conversation in your team.
 
 Additionally, no tool works for all applications. Making changes to how your team uses the tools presented here is encouraged - reflecting on what works for your team is often more useful than following a framework ceremoniously. With that said, let's get started!
 
