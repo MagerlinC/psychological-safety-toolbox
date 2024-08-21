@@ -4,19 +4,38 @@ sidebar_position: 1
 
 # Tool Compendium
 
-This compendium was made by Mikkel Agerlin Christensen, and is licensed for non-commercial use under Creative Commons [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/).
+Welcome to your toolbox of tools for working with psychological safety!
 
-If you wish to use this compendium for commercial purposes, please contact me at [mikkel@addresstheelephant.io](mailto:mikkel@addresstheelephant.com).
+This tool compendium was designed to help teams begin their journey of working with psychological safety, and contains tools to help them do so. Like most tools, this compendium will not magically grant psychological safety to your team. However, it might help you start a valuable conversation in your team.
 
-## Introduction
+Additionally, no tool works for all applications. Making changes to how your team uses the tools presented here is encouraged - reflecting on what works for your team is often more useful than following a framework ceremoniously. With that said, let's get started!
 
-Welcome to your toolbox of **tools** for working with psychological safety! This document will contain a small introduction, a guide to using the **tools**, and finally [a list of all the **tools** available](#list-of-tools).
+This compendium will cover:
 
-Like most tools, this compendium will not magically grant psychological safety to your team. However, it might help you start a valuable conversation in your team.
+- [Background](#background)
 
-Additionally, no tool works for all applications. Making changes to how your team uses the **tools** presented here is encouraged - reflecting on what works for your team is often more useful than following a framework ceremoniously.
+  - [What is Psychological Safety?](#what-is-psychological-safety)
+  - [Why Psychological Safety?](#why-psychological-safety)
+  - [What is a "Tool"?](#what-is-a-tool)
+  - [Why use Tools for Psychological Safety?](#why-use-tools-for-psychological-safety)
+  - [Who are the Tools for?](#who-are-the-tools-for)
 
-With that said, let's get started!
+- [Using The Compendium](#using-the-compendium)
+  - [Reading the Tool Sheets](#reading-the-tool-sheets)
+  - [Quick Start](#quick-start)
+  - [List of tools](#list-of-tools)
+
+If you want the best experience, I recommend reading the [Background](#background) section before getting into the tools themselves.
+
+If you're already familiar with Psychological Safety and want to dive straight into it, feel free to skip ahead to [Using the Compendium](#using-the-compendium).
+
+_This compendium was made by Mikkel Agerlin Christensen, and is licensed for non-commercial use under Creative Commons [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)._
+
+_If you wish to use this compendium for commercial purposes, please contact me at [mikkel@addresstheelephant.io](mailto:mikkel@addresstheelephant.com)._
+
+# Background
+
+This section will provide you with an introduction to Psychological Safety, and why it's important for your team.
 
 ## What is Psychological Safety?
 
@@ -46,74 +65,76 @@ The end goal of psychological safety should be excellence, not comfort. This can
 
 ## What is a "Tool"?
 
-Below you can find a list of **tools** for working with psychological safety. Your team can pick up these **tools** and use them for working with psychological safety as part of their daily work.
+Below you can find a list of tools for working with psychological safety. Your team can pick up these tools and use them for working with psychological safety as part of their daily work.
 
-A **tool** describes an activity which your team can integrate into your practice, the motivation for performing it, as well as the duration and frequency with which the activity should be performed. Some **tools** are designed to be used daily, while others can be used once per iteration, such as a Sprint or a work week, or ad-hoc throughout the iteration.
+A tool describes an activity which your team can integrate into your practice, the motivation for performing it, as well as the duration and frequency with which the activity should be performed. Some tools are designed to be used daily, while others can be used once per iteration, such as a Sprint or a work week, or ad-hoc throughout the iteration.
 
-Finally, each **tool** lists the intended outcome of using the **tool**, and provides an example of the **tool** in use.
+Finally, each tool lists the intended outcome of using the tool, and provides an example of the tool in use.
 
-Note that each **tool** comes with a numerical indicator (1 to 3) of "required comfort with dissent". This indicates the level of comfort with dissent your team should have to get the most out of the **tool**. Comfort with dissent is hard to measure, but you can use the indicators to get a sense of which **tools** might be a good fit for your team.
+Note that each tool comes with a numerical indicator (1 to 3) of "required comfort with dissent". This indicates the level of comfort with dissent your team should have to get the most out of the tool. Comfort with dissent is hard to measure, but you can use the indicators to get a sense of which tools might be a good fit for your team.
 
 ## Why use Tools for Psychological Safety?
 
 Psychological safety is nothing new. In fact, most people experience it every day of their work life, perhaps unknowingly.
 
-However, very few teams actively discuss it - it's often an invisible phenomenon. This is where **tools** come in. By having your team agree to use a **tool**, you acknowledge the need for discussing this invisble but ever-present phenomenon in an _actionable_ way, and provide your team with a prompt to engage with that discussion.
+However, very few teams actively discuss it - it's often an invisible phenomenon. This is where tools come in. By having your team agree to use a tool, you acknowledge the need for discussing this invisble but ever-present phenomenon in an _actionable_ way, and provide your team with a prompt to engage with that discussion.
 
-Most teams that have tried this toolbox have stated that they were "pretty good" before using it, and that they already had a good culture of psychological safety. After using these **tools**, [81%](https://link.springer.com/chapter/10.1007/978-3-031-08169-9_6/tables/5) of team members stated that they had reflected on things which their team did normally discuss during **tool** usage.
+Most teams that have tried this toolbox have stated that they were "pretty good" before using it, and that they already had a good culture of psychological safety. After using these tools, [81%](https://link.springer.com/chapter/10.1007/978-3-031-08169-9_6/tables/5) of team members stated that they had reflected on things which their team did normally discuss during tool usage.
 
 ## Who are the Tools for?
 
-The list of **tools** provdied below is intended for use by teams of 3-10 people, who wish to engage in working towards a more psychologically safe culture within their team. The **tools** are designed to be carried out by one team at a time, but feel free to share your experiences across teams.
+The list of tools provided below is intended for use by teams of 3-10 people, who are interested in working towards a more psychologically safe culture within their team. The team's interest is an important point - psychological safety cannot be a strategic point decreed by management, it must be desired within the team itself. It's a collaborative process!
 
-For the best outcome, the **tools** selected by your team should be utilized by every person that is considered a member of the team, regardless of position or role within the team.
+The tools are designed to be carried out by one team at a time, but feel free to share your experiences across teams.
 
-# Quick Reference
+For the best outcome, the tools selected by your team should be utilized by every person that is considered a member of the team, regardless of position or role within the team.
 
-This compendium consists of 9 **tools**, which all outline various ways in which your team can work with psychological safety.
+# Using the Compendium
 
-Although any tool can be used by any team, the **tools** differ slightly in design, and some will be a better match for your team than others.
+This compendium consists of 9 tools, which all outline various ways in which your team can work with psychological safety.
 
-This quick reference sheet will help you get an overview of the **tools**, and help you decide which ones will be best suited for your team.
+Although any tool can be used by any team, the tools differ slightly in design, and some will be a better match for your team than others.
 
-Note that while some **tools** might mention physical artifacts (such as post-its), all **tools** were designed with online meetings in mind, and any digital replacement will work. In general, adapting a **tool** in ways that make it function better in your context is highly encouraged.
+This quick reference sheet will help you get an overview of the tools, and help you decide which ones will be best suited for your team.
+
+Note that while some tools might mention physical artifacts (such as post-its), all tools were designed with online meetings in mind, and any digital replacement will work. In general, adapting a tool in ways that make it function better in your context is highly encouraged.
 
 ## Reading the Tool Sheets
 
-Each **tool** is presented on a single page, with an example of the **tool** in use on the following page. A **tool** page has 5 main elements, describing how to implement them:
+Each tool is presented on a single page, with an example of the tool in use on the following page. A tool page has 5 main elements, describing how to implement them:
 
-1. a motivation for when to use the **tool**
+1. a motivation for when to use the tool
 2. prerequisites (if any)
 3. a description of the activity to be performed
 4. a purpose statement
 5. expected outcome
 
-Additionally, different **tools** vary along four dimensions:
+Additionally, different tools vary along four dimensions:
 
 1. Setting (group session/individual)
 2. Duration
 3. Frequency of use
 4. Required comfort with dissent
 
-Use this information to pick a set of **tools** for your team to try, which works in your given context.
+Use this information to pick a set of tools for your team to try, which works in your given context.
 
 ## Quick Start
 
-The full list of **tools** will follow below. To get started, pick 2-3 **tools** and try them out in your team. Feel free to pick the ones that speak to you - a **tool** is most succesful if it's used by a team that is excited to try it out.
+The full list of tools will follow below. To get started, pick 2-3 tools and try them out in your team. Feel free to pick the ones that speak to you - a tool is most succesful if it's used by a team that is excited to try it out.
 
-If you are new to working with psychological safety, and want a quick start, the following **tools** are a good (and safe) starting point:
+If you are new to working with psychological safety, and want a quick start, the following tools are a good (and safe) starting point:
 
 1. [Laying the Foundation](tools/laying-the-foundation)
 2. [Checking In](tools/checking-in)
 3. [What's it to me?](tools/what-is-it-to-me)
 
-If you want to further deepen your work with psychological safety, feel free to dive into the other **tools**. There is no minimum or maximum amount of **tools** that your team can use at a given time, so feel free to pick the setup that fits your team the best!
+If you want to further deepen your work with psychological safety, feel free to dive into the other tools. There is no minimum or maximum amount of tools that your team can use at a given time, so feel free to pick the setup that fits your team the best!
 
 And perhaps most importantly; have fun!
 
 ## List of tools
 
-This compendium contains the following **tools**:
+This compendium contains the following tools:
 
 | **Tool Name**                                          | **Setting 👥** | **Duration 🕒**     | **Frequency 🔄** | **Required Comfort 🛋️** |
 | ------------------------------------------------------ | -------------- | ------------------- | ---------------- | ----------------------- |
