@@ -31,7 +31,7 @@ Not because of an active decision, but because it’s the way we’re used to.
 
 The result is inefficient - and if you ask me - uninspiring to partake in.
 
-On the other hand, I've now worked in a few organizations which came to a point of actively deciding to break down these barriers, including stripping the words "frontend" and "backend" from the titles of developers, leaving us with... just developers. And the results have been amazing.
+On the other hand, I've now worked in a few organizations which came to a point of actively deciding to break down these barriers, including stripping the words "frontend" and "backend" from the titles of developers, leaving us with... just developers doing development. And the results have been amazing. Questions like the ones listed above seem to vanish, and the vast majority of developers start growing in all kinds of interesting ways as they realize that they themselves can eliminate bottlenecks that used to hold them back.
 
 It takes work, and it's paramount that your developers get the support they need to bridge the gap, and that such a change is done _with_ them, not _to_ them. But if you succeed, you will see benefits for both the engineering department and the larger organization in places you weren't even expecting.
 
