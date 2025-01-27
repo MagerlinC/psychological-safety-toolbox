@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[6741],{4336:e=>{e.exports=JSON.parse('{"label":"software teams","permalink":"/blog/tags/software-teams","allTagsPath":"/blog/tags","count":1}')}}]);
