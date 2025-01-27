@@ -17,10 +17,11 @@ export default function AboutMe() {
             <p>
               I'm a Software Developer by day, and a Psychological Safety
               practitioner and researcher by... well, also day I suppose. I come
-              from a background working as a software developer, but realized
-              early on in my career that people and their interactions often end
-              up shaping the software and products we build (Conway's Law,
-              anyone?).
+              from a background working as a software developer, but quickly
+              experienced that people and their interactions often end up
+              shaping the software we build just as much as the technology
+              itself. In learning about the worlds of psychological safety and
+              Conway’s law, I was hooked.
             </p>
             <p>
               As a result of this, I have spent the last couple of years working
