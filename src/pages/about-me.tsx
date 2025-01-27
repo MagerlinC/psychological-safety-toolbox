@@ -15,7 +15,7 @@ export default function AboutMe() {
           <p className={styles.heroDesc}>
             <h2 className={styles.nameTitle}>Mikkel Agerlin Christensen</h2>
             <p>
-              I'm a Software Developer by day, and a Psychological Safety
+              I'm a software reveloper by day, and a psychological safety
               practitioner and researcher by... well, also day I suppose. I come
               from a background working as a software developer, but quickly
               experienced that people and their interactions often end up
@@ -35,27 +35,25 @@ export default function AboutMe() {
               safety in different software teams. I focus on making
               psychological safety <i>actionable</i>, designing and implementing
               tools for working with psychological safety, which your and your
-              team can adopt to start working with psychological safety today! I
-              also hold various talks and workshops, sharing the good word with
-              those interested in psychological safety.
-              <p>
-                If you want me to speak at your event, facilitate a workshop
-                with your company, or work directly with your teams, don't
-                hesitate to contact me at{" "}
-                <a href="mailto:mikkel@addresstheelephant.io">
-                  mikkel@addresstheelephant.io
-                </a>
-              </p>
+              team can adopt to start working with psychological safety today!
             </p>
             <p>
-              If you're interested in my research projects or my CV, you can
-              find those on my{" "}
-              <a href="https://magerlinc.github.io/">personal website</a>. You
-              are also welcome to contact me on{" "}
+              I also hold various talks and workshops, sharing the good word
+              with those interested in psychological safety. If you want me to
+              speak at your event, facilitate a workshop with your company, or
+              work directly with your teams, don't hesitate to contact me at{" "}
+              <a href="mailto:mikkel@addresstheelephant.io">
+                mikkel@addresstheelephant.io
+              </a>
+              .{""} You are also welcome to contact me through{" "}
               <a href="https://www.linkedin.com/in/mikkel-agerlin-christensen-3a38ba166/">
-                my LinkedIn
+                LinkedIn
               </a>
               .
+            </p>
+            <p>
+              If you're interested in my developer work, feel free to check out{" "}
+              <a href="https://github.com/MagerlinC">my Github</a>.
             </p>
           </p>
         </div>
